@@ -6,7 +6,7 @@
 //                                               //
 ///////////////////////////////////////////////////
 
-// (c) YOUR_NAME at Bauhaus-Uni Weimar ( 2014 )
+// (c) Nima Vakili at Bauhaus-Uni Weimar ( 2014 )
 
 PFont arial;
 
